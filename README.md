@@ -21,6 +21,9 @@
 
 ## My Stats:
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SuperMilkky&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperMilkky&layout=compact&theme=tokyonight">
+
+
 
 ## About DLC
 
