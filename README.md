@@ -25,7 +25,7 @@
 
 
 
-## About DLC
+## About DLC:
 
 <hr>
 <img src = "DLC.png" width = "10000em"/>
