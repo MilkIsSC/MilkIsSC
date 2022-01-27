@@ -17,7 +17,8 @@
 <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> •
 <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> •
 <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"> •
-<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> •
+<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"> 
 
 ## My Stats:
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SuperMilkky&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars">
