@@ -31,5 +31,11 @@
 <hr>
 <img src = "DLC.png" width = "10000em"/>
 
-### DLC Is a Group/Server made by MilkIs_SC.exe for Developers to talk with each other about their Issues with Coding. <br><br> The Group/Server will be released Soon after Reaching Some Certain Goals in the community. <br><br> Coming Soon...
+### Have you ever thought about a place to code while smultaneously chilling with other developers?
+<br>
+Well if that's te case, then this is for you!<br> whether you are a beginner, an intermediate or an experienced programmer, you can find your place in DLC.
+<br>
+DLC is some sort of company, which was made with the help of discord. <br>Its the place we talked about at the start, for developers to ask questions, solve various issues, or maybe just chill with each other in the server.
+<br><br>
+Coming Soon...
 <hr>
