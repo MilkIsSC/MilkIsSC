@@ -37,5 +37,5 @@ Well if that's te case, then this is for you!<br> whether you are a beginner, an
 <br>
 DLC is some sort of company, which was made with the help of discord. <br>Its the place we talked about at the start, for developers to ask questions, solve various issues, or maybe just chill with each other in the server.
 <br><br>
-Coming Soon...
+## Coming Soon...
 <hr>
