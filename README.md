@@ -31,7 +31,7 @@
 <hr>
 <img src = "DLC.png" width = "10000em"/>
 
-## Have you ever thought about a place to code while smultaneously chilling with other developers?
+## Have you ever thought about a place to code while simultaneously chilling with other developers?
 <br>
 Well if that's te case, then this is for you!<br> whether you are a beginner, an intermediate or an experienced programmer, you can find your place in DLC.
 <br>
