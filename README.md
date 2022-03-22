@@ -20,6 +20,13 @@
 <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> •
 <img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"> 
 
+## Editing Skills:
+<img align="center" height="32em" width="32em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere"> •
+<img align="center" height="32em" width="32em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png?20210519030120" alt="aftereffect"> •
+<img align="center" height="32em" width="32em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="photoshop">
+
+
+
 ## My Stats:
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MilkIsSC&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MilkIsSC&layout=compact&theme=tokyonight">
